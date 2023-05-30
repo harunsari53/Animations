@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     shadowOpacity: .4,
     shadowColor: colors.black,
     position: 'absolute',
-      bottom: 20,
+      bottom: 22,
   },
   box: {
     width: 60,
